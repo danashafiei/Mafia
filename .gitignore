@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+app/build/
+app/libs/
+app/release/
+app/sampledata

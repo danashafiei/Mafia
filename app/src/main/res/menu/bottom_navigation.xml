@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Game"
+        android:id="@+id/bItem_1"
+        android:icon="@drawable/ic_game"/>
+    <item
+        android:title="Chat"
+        android:id="@+id/bItem_2"
+        android:icon="@drawable/ic_chat"/>
+    <item
+        android:title="Profile"
+        android:id="@+id/bItem_3"
+        android:icon="@drawable/ic_profile"/>
+
+</menu>

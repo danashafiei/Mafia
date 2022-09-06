@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network_security_config>
+    <domain-config
+        cleartextTrafficPermitted="true">
+        <domain
+            includeSubdomains="true">
+            http://mafia.unaux.com/test/
+        </domain>
+    </domain-config>
+
+</network_security_config>

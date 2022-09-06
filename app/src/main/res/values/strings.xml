@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mafia</string>
+    <string name="exit_app">Exit App</string>
+    <string name="log_out">Logout</string>
+    <string name="game_info">Game Instructions</string>
+    <string name="pref_file_key">pref_file_key</string>
+    <string name="pref_is_user_login">isuserlogin</string>
+    <string name="pref_username_of_user">usernameofuser</string>
+    <string name="pref_room_name">room_name</string>
+    <string name="pref_is_game_started">isgamestarted</string>
+    <string name="pref_your_role">your_role</string>
+    <string name="pref_room_admin">room_admin</string>
+</resources>
